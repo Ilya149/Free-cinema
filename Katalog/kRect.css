@@ -70,6 +70,7 @@ form{
     font-weight: 500;
     font-size: 32px;
     line-height: 37px;
+    align-items: center;
 }
 .box1{
     display: flex;
@@ -84,6 +85,7 @@ form{
     font-weight: 500;
     font-size: 32px;
     line-height: 37px;
+    align-items: center;
 }
 #box{
     margin-left: 144px;
@@ -101,6 +103,7 @@ form{
     font-weight: 500;
     font-size: 32px;
     line-height: 37px;
+    align-items: center;
 }
 .wrapper1{
     display: flex;
@@ -121,6 +124,7 @@ form{
     font-weight: 500;
     font-size: 32px;
     line-height: 37px;
+    align-items: center;
 }
 h1{
     text-align: center;
@@ -130,6 +134,7 @@ h1{
     font-weight: 500;
     font-size: 32px;
     line-height: 37px;
+    align-items: center;
 }
 .end{
     text-align: center;
