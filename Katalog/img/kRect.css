@@ -1,0 +1,146 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background:  #0C2036;
+    height: 2110px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.nav{
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+.one{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    display: flex;
+    padding-top: 21px;
+    justify-content: center;
+}
+#logo{
+    margin-left: 10px;
+}
+form{
+    display: flex;
+    margin-left: 105px;
+    padding-top: 60px;
+    width: 336px;
+    height: 30px;
+    justify-content: center;
+}
+#menu{
+    margin-left: 105px;
+    padding-top: 60px;
+    justify-content: center;
+}
+.menu{
+    text-decoration: none;
+    margin-right: 38px;
+    color:rgb(255, 255, 255);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    padding-top: 60px;
+    justify-content: center;
+}
+.akk{
+    width: 67px;
+    height: 52px;
+    padding-top: 51px;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box{
+    display: flex;
+    width: 292px;
+    height: 204px;
+    background: #D7B816;
+    border-radius: 20px;
+    margin-right: 149px;
+    margin-top: 176px;
+    justify-content: center;
+    text-align: center;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+}
+.box1{
+    display: flex;
+    width: 292px;
+    height: 204px;
+    border-radius: 20px;
+    background: #EC5A5A;
+    margin-right: 149px;
+    margin-top: 176px;
+    justify-content: center;
+    text-align: center;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+}
+#box{
+    margin-left: 144px;
+}
+.box2{
+    display: flex;
+    width: 292px;
+    height: 204px;
+    border-radius: 20px;
+    background: #D767FF;
+    margin-right: 149px;
+    margin-top: 176px;
+    justify-content: center;
+    text-align: center;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+}
+.wrapper1{
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box3{
+    display: flex;
+    width: 292px;
+    height: 204px;
+    border-radius: 20px;
+    background: #8EFFAE;
+    margin-top: 82px;
+    justify-content: center;
+    margin-left: 10px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+}
+h1{
+    text-align: center;
+    margin-top: 228px;
+    color: #ffffff;
+    margin-bottom: 69px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+}
+.end{
+    text-align: center;
+}
+.eee{
+    display:inline;
+    margin-right: 50px;
+    justify-content: center;
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+}
