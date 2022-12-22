@@ -1,0 +1,117 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background:  #0C2036;
+    height: 2110px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.nav{
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+.one{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    display: flex;
+    padding-top: 21px;
+    justify-content: center;
+}
+#logo{
+    margin-left: 10px;
+}
+form{
+    display: flex;
+    margin-left: 105px;
+    padding-top: 60px;
+    width: 336px;
+    height: 30px;
+    justify-content: center;
+}
+#menu{
+    margin-left: 105px;
+    padding-top: 60px;
+    justify-content: center;
+}
+.menu{
+    text-decoration: none;
+    margin-right: 38px;
+    color:rgb(255, 255, 255);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    padding-top: 60px;
+    justify-content: center;
+}
+.akk{
+    width: 67px;
+    height: 52px;
+    padding-top: 51px;
+}
+.vid{
+    display: flex;
+    justify-content: center;
+}
+.video{
+   display: flex;
+   justify-content: center;
+   margin-top: 220px;
+}
+.rating{
+    display: inline-flex;
+    flex-direction: row-reverse;
+}
+.star{
+    font-size: 50px;
+    color: white;
+    cursor: pointer;
+    transition: .2s;
+}
+.star:hover,
+.star:hover ~ .star{
+    color: yellow;
+}
+.rating[data-total-value="1"] .star:nth-child(n+5),
+.rating[data-total-value="2"] .star:nth-child(n+4),
+.rating[data-total-value="3"] .star:nth-child(n+3),
+.rating[data-total-value="4"] .star:nth-child(n+2),
+.rating[data-total-value="5"] .star:nth-child(n+1) {
+    color: yellow;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+}
+.sprav{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    margin-top: 40px;
+    margin-right: 55px;
+    padding-bottom: 40px;
+}
+.pred{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    padding-top: 40px;
+    margin-right: 55px;
+    padding-bottom: 40px;
+}
+.vk{
+    display: flex;
+    justify-content: center;
+    margin-top: 29px;
+    margin-right: 55px;
+    padding-bottom: 40px;
+}
+.strel{
+    height: 2px;
+    margin-top: 892px;
+    background: #F9BF3B;
+}
